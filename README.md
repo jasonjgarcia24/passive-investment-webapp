@@ -58,17 +58,26 @@ The tools provides three necessary visualizations for ETF porfolio analysis:
 3. An interactive line chart for the ETF portfolio's cumulative annualized returns:<br>
 <img src="./img/results_cumulative-returns_portfolio.png" title="Average Sale Prices by Neighborhood"><br>
     
-Using Voilà, the following screenshot recordings capture the webapp:
-![ScreenShot](img/voila_p1.png)<br>
-![ScreenShot](img/voila_p2.png)<br>
-![ScreenShot](img/voila_p3.png)<br>
-![ScreenShot](img/voila_p4.png)<br>
-![ScreenShot](img/voila_p5.png)<br>
-![ScreenShot](img/voila_p6.png)<br>
-![ScreenShot](img/voila_p7.png)<br>
-![ScreenShot](img/voila_p8.png)<br>
-![ScreenShot](img/voila_p9.png)<br>
-![ScreenShot](img/voila_p10.png)<br>
+Using Voilà, the following screenshot recordings capture the webapp:<br>
+<img src="./img/voila_p1.png"><br>
+
+<img src="./img/voila_p2.png"><br>
+
+<img src="./img/voila_p3.png"><br>
+
+<img src="./img/voila_p4.png"><br>
+
+<img src="./img/voila_p5.png"><br>
+
+<img src="./img/voila_p6.png"><br>
+
+<img src="./img/voila_p7.png"><br>
+
+<img src="./img/voila_p8.png"><br>
+
+<img src="./img/voila_p9.png"><br>
+
+<img src="./img/voila_p10.png"><br>
 
 ***
 ## <a id="Contributors">Contributors</a>
