@@ -1,0 +1,25 @@
+.
+├── .env
+├── SAMPLE.env
+├── data
+│   ├── housing_per_year.csv
+│   ├── neighborhoods_coordinates.csv
+│   └── sfo_neighborhoods_census_data.csv
+├── img
+│   ├── avg-sale-px-sq-foot-gross-rent.png
+│   ├── mapbox-plot.png
+│   ├── pricing-info-by-neighborhood.png
+│   ├── project_tree.png
+│   ├── results_average_sale-prices_by_neighborhood.png
+│   ├── results_average_sale-prices_pre_square_foot.png
+│   ├── results_housing_units_per_year.png
+│   ├── results_interactive_neighboorhood_summary_map.png
+│   ├── results_rate_increase_rental_price_vs_sale_price.png
+│   └── zoomed-housing-units-by-year.png
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── san_francisco_housing.ipynb
+├── tree.txt
+└── utils
+    └── interp.py
