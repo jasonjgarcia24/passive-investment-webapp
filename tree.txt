@@ -1,25 +1,23 @@
 .
-├── .env
-├── SAMPLE.env
-├── data
-│   ├── housing_per_year.csv
-│   ├── neighborhoods_coordinates.csv
-│   └── sfo_neighborhoods_census_data.csv
+├── docs
+├── etf.db
+├── etf_analyzer.ipynb
 ├── img
-│   ├── avg-sale-px-sq-foot-gross-rent.png
-│   ├── mapbox-plot.png
-│   ├── pricing-info-by-neighborhood.png
 │   ├── project_tree.png
-│   ├── results_average_sale-prices_by_neighborhood.png
-│   ├── results_average_sale-prices_pre_square_foot.png
-│   ├── results_housing_units_per_year.png
-│   ├── results_interactive_neighboorhood_summary_map.png
-│   ├── results_rate_increase_rental_price_vs_sale_price.png
-│   └── zoomed-housing-units-by-year.png
+│   ├── results_cumulative-daily-returns_PYPL.png
+│   ├── results_cumulative-returns_portfolio.png
+│   ├── results_daily-returns_PYPL.png
+│   ├── voila_p1.PNG
+│   ├── voila_p10.PNG
+│   ├── voila_p2.PNG
+│   ├── voila_p3.PNG
+│   ├── voila_p4.PNG
+│   ├── voila_p5.PNG
+│   ├── voila_p6.PNG
+│   ├── voila_p7.PNG
+│   ├── voila_p8.PNG
+│   └── voila_p9.PNG
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
-├── san_francisco_housing.ipynb
-├── tree.txt
-└── utils
-    └── interp.py
+└── tree.txt

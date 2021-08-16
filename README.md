@@ -1,4 +1,4 @@
-# <a id="Top-of-Page"> Welcome to the Passive Inveestment WebApp!</a>
+# <a id="Top-of-Page"> Welcome to the Passive Investment WebApp!</a>
 #### A financial database and web application to analyze the performance of a hypothetical fintech ETF.
 
 ***
@@ -21,12 +21,10 @@ This project aims to analyze and visualize the ETF portfolio by doing the follow
  - Optimize data access with advanced SQL queries
  - Analyze the ETF portfolio
  - Deploy the notebook as a web application<br>
- 
+
 #### Project layout:
 The layout of essentials for this project is show below.
 <p><a href="tree.txt"><img src="img/project_tree.png" title="price-dislocation project tree"></a></p>
-
-**Note:** <code>.env</code> is only a reference to show how and where it should be in the project structure. Please use <code>SAMPLE.env</code> as a reference template for your own <code>.env</code> file.
 
 ***
 ## <a id="Technologies">Technologies</a>
@@ -60,24 +58,34 @@ The tools provides three necessary visualizations for ETF porfolio analysis:
 3. An interactive line chart for the ETF portfolio's cumulative annualized returns:<br>
 <img src="./img/results_cumulative-returns_portfolio.png" title="Average Sale Prices by Neighborhood"><br>
     
-Using voila, the following screenshot recordings capture the webapp:
+Using Voilà, the following screenshot recordings capture the webapp:
 <img src="./img/voila_p1.png"><br>
+
 <img src="./img/voila_p2.png"><br>
+
 <img src="./img/voila_p3.png"><br>
+
 <img src="./img/voila_p4.png"><br>
+
 <img src="./img/voila_p5.png"><br>
+
 <img src="./img/voila_p6.png"><br>
+
 <img src="./img/voila_p7.png"><br>
+
 <img src="./img/voila_p8.png"><br>
+
 <img src="./img/voila_p9.png"><br>
+
 <img src="./img/voila_p10.png"><br>
+
 ***
 ## <a id="Contributors">Contributors</a>
 Currently just me :)<br>
 
 ***
 ## <a id="License">License</a>
-Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/sf-housing-app/blob/665e34a616f2931f3b9262dfb1115b59c28e7ac1/LICENSE" title="LICENSE">MIT License.</a>
+Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/passive-investment-webapp/blob/586c7f7d1555c5effd9f271418a7cca2e6279a03/LICENSE" title="LICENSE">MIT License.</a>
 
 ***
 [Top of Page](#Top-of-Page)<br>
